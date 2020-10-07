@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="row" style="display:flex;">
+<div class="row" style="display:flex; height:200px">
 <div style="flex:50%; padding:10px;">
 <img align="left" src="https://cdn.swisscows.ch//http://3.bp.blogspot.com/-_1A4urzzago/TZw5K41Z7CI/AAAAAAAAASw/nXHQX-0tNUA/s1600/fox+outline.jpg" height=200/>
   </div>
